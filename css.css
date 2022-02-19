@@ -1,0 +1,94 @@
+.general{
+    border: 1px solid black;
+    width: auto;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.content-left{
+    float: left;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+}
+.content-right{
+    float: left;
+    width: 700px;
+    height:500px;
+    margin: auto;
+    text-align: center;
+}
+
+.left{
+    float: left;
+    border: 1px solid black;
+    width: 700px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+}
+.right{
+    float: right;
+    border: 1px solid black;
+    width: 700px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+.button1{
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 25px;
+    margin-top: 540px;
+    transition: 0.3s;
+    background-color: green;
+    cursor: pointer;
+    color: white;
+    margin-left: 250px;
+}
+
+
+.button1:hover{
+background-color: white;
+transition: 0.3s;
+border: 3px solid green;
+color: green;
+}
+
+.button2{
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 18px;
+    font-size: 25px;
+    transition: 0.3s;
+    background-color: green;
+    cursor: pointer;
+    color: white;
+    margin-left: 250px;
+}
+
+
+.button2:hover{
+background-color: white;
+transition: 0.3s;
+border: 3px solid green;
+color: green;
+}
+
+
+.name{
+    margin: auto;
+}
